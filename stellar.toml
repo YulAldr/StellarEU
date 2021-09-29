@@ -1,3 +1,10 @@
+[DOCUMENTATION]
+ORG_NAME="Misty Casa"
+ORG_DBA="MISTYCASA"
+ORG_URL="https://misty.casa"
+ORG_LOGO="https://misty.casa/photo/profile/l/4"
+ORG_DESCRIPTION="MistyCasa Tokens are designed to be used in the federated social networking game and have no cash value. Use at your own risk. All transactions are permanently published on a public blockchain. Users who opt-in may be identified by their transaction history, to their public social networking profile. Users have the ability to control the information they publish on their profile, and to delete their profile at-will."
+ORG_OFFICIAL_EMAIL="waitman@waitman.net"
 [[PRINCIPALS]]
 name="Yulong Aldroiks"
 email="yulongaldroiks@gmail.com"

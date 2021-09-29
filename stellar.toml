@@ -1,10 +1,10 @@
 [DOCUMENTATION]
-ORG_NAME="Misty Casa"
-ORG_DBA="MISTYCASA"
-ORG_URL="https://misty.casa"
-ORG_LOGO="https://misty.casa/photo/profile/l/4"
-ORG_DESCRIPTION="MistyCasa Tokens are designed to be used in the federated social networking game and have no cash value. Use at your own risk. All transactions are permanently published on a public blockchain. Users who opt-in may be identified by their transaction history, to their public social networking profile. Users have the ability to control the information they publish on their profile, and to delete their profile at-will."
-ORG_OFFICIAL_EMAIL="waitman@waitman.net"
+ORG_NAME="Elton Aldroiks Value Developer"
+ORG_DBA="YulAldr"
+ORG_URL="https://yulaldr.github.io/StellarEU/index.html"
+ORG_LOGO="https://yulaldr.github.io/StellarEU/image.png"
+ORG_DESCRIPTION="Smarts solutions for your investment"
+ORG_OFFICIAL_EMAIL="yulongaldroiks@gmail.com"
 [[PRINCIPALS]]
 name="Yulong Aldroiks"
 email="yulongaldroiks@gmail.com"
@@ -14,4 +14,4 @@ code="StellarEU"
 issuer="GALN76JFY2ROUGZB2P4YRYFAHZTBUF4ZKSJ7ENUTG7CJNFFUNG6KYFUL"
 display_decimals=7
 name="StellarEU Token"
-desc="Token was made by Elton Aldreiks Value Developer . StellarEU is an utility token to store and move value with almost no fee for the secure and fast transaction. StellarEU is a token of the blockchain stellar.org and can be bought with the native cryptocurrency XLM in the exchange of the Stellar Development Fondation "
+desc="Token was made by Elton Aldroiks Value Developer . StellarEU is an utility token to store and move value with almost no fee for the secure and fast transaction. StellarEU is a token of the blockchain stellar.org and can be bought with the native cryptocurrency XLM in the exchange of the Stellar Development Fondation "
